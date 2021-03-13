@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/snackpass/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/snackpass/static/js/main.815c34dd.chunk.js",
-    "main.js.map": "/snackpass/static/js/main.815c34dd.chunk.js.map",
+    "main.js": "/snackpass/static/js/main.7a275cec.chunk.js",
+    "main.js.map": "/snackpass/static/js/main.7a275cec.chunk.js.map",
     "runtime-main.js": "/snackpass/static/js/runtime-main.18dd1b36.js",
     "runtime-main.js.map": "/snackpass/static/js/runtime-main.18dd1b36.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/snackpass/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.1a6bb6a5.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.815c34dd.chunk.js"
+    "static/js/main.7a275cec.chunk.js"
   ]
 }
