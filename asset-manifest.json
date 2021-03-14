@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/snackpass/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/snackpass/static/js/main.f602833f.chunk.js",
-    "main.js.map": "/snackpass/static/js/main.f602833f.chunk.js.map",
+    "main.css": "/snackpass/static/css/main.829861af.chunk.css",
+    "main.js": "/snackpass/static/js/main.3819f671.chunk.js",
+    "main.js.map": "/snackpass/static/js/main.3819f671.chunk.js.map",
     "runtime-main.js": "/snackpass/static/js/runtime-main.18dd1b36.js",
     "runtime-main.js.map": "/snackpass/static/js/runtime-main.18dd1b36.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/snackpass/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6307b8e6.chunk.js": "/snackpass/static/js/2.6307b8e6.chunk.js",
-    "static/js/2.6307b8e6.chunk.js.map": "/snackpass/static/js/2.6307b8e6.chunk.js.map",
+    "static/js/2.d0036138.chunk.js": "/snackpass/static/js/2.d0036138.chunk.js",
+    "static/js/2.d0036138.chunk.js.map": "/snackpass/static/js/2.d0036138.chunk.js.map",
     "index.html": "/snackpass/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/snackpass/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/snackpass/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6307b8e6.chunk.js.LICENSE.txt": "/snackpass/static/js/2.6307b8e6.chunk.js.LICENSE.txt"
+    "static/css/main.829861af.chunk.css.map": "/snackpass/static/css/main.829861af.chunk.css.map",
+    "static/js/2.d0036138.chunk.js.LICENSE.txt": "/snackpass/static/js/2.d0036138.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18dd1b36.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6307b8e6.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f602833f.chunk.js"
+    "static/js/2.d0036138.chunk.js",
+    "static/css/main.829861af.chunk.css",
+    "static/js/main.3819f671.chunk.js"
   ]
 }
